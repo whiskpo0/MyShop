@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/MyShop/MyShop.WebUI/Content/ProductImages/dd74f4ab-4c8a-4a33-a206-ed000e77336b.PNG
+/MyShop/MyShop.WebUI/Content/ProductImages/e4840c99-4460-4dd0-8032-95520a642bd6.PNG
