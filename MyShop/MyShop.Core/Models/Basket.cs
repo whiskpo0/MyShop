@@ -12,7 +12,7 @@ namespace MyShop.Core.Models
 
         public Basket()
         {
-            this.BasketItem = new List<BasketItem>(); 
+            this.BasketItem = new List<BasketItem>(); // lazy loading
         }
     }
 }
